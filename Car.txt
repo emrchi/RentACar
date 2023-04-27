@@ -6,4 +6,5 @@ yeni kodlar ekledim
 farkli kodlar yazdim.
 
 bazi calismalar yaptim.
+locale'de conflick olursa?
 
