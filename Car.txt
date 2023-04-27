@@ -1,0 +1,1 @@
+Harika, bazi kodlar yazdim.
